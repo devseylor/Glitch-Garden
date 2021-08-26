@@ -1,0 +1,1264 @@
+fileFormatVersion: 2
+guid: 266b772c926f9384ab8559346ea4728f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2807192621626810007
+    second: _izard Jump_0
+  - first:
+      213: -8423360746499507813
+    second: _izard Jump_1
+  - first:
+      213: -9022618069220974518
+    second: _izard Jump_2
+  - first:
+      213: 5814058525323857599
+    second: _izard Jump_3
+  - first:
+      213: -8268930890116153012
+    second: _izard Jump_4
+  - first:
+      213: -1853807058768154071
+    second: _izard Jump_5
+  - first:
+      213: 123125021455993657
+    second: _izard Jump_6
+  - first:
+      213: -2182517999680088617
+    second: _izard Jump_7
+  - first:
+      213: -4363827711929826884
+    second: _izard Jump_8
+  - first:
+      213: 3316656239504538974
+    second: _izard Jump_9
+  - first:
+      213: -5515501543096669079
+    second: _izard Jump_10
+  - first:
+      213: 5005854240146737223
+    second: _izard Jump_11
+  - first:
+      213: 7288051583315416403
+    second: _izard Jump_12
+  - first:
+      213: -7173767274294776832
+    second: _izard Jump_13
+  - first:
+      213: -4847172876722550912
+    second: _izard Jump_14
+  - first:
+      213: 2775313255801446518
+    second: _izard Jump_15
+  - first:
+      213: -634965766274340188
+    second: _izard Jump_16
+  - first:
+      213: 3534761392947759459
+    second: _izard Jump_17
+  - first:
+      213: 4806649487193427255
+    second: _izard Jump_18
+  - first:
+      213: 6762113181516338072
+    second: _izard Jump_19
+  - first:
+      213: -8008664327327563935
+    second: _izard Jump_20
+  - first:
+      213: -4814244911062104842
+    second: _izard Jump_21
+  - first:
+      213: 5090435530242447175
+    second: _izard Jump_22
+  - first:
+      213: -3225848149848086866
+    second: _izard Jump_23
+  - first:
+      213: -7374778692220901523
+    second: _izard Jump_24
+  - first:
+      213: -3515443907554706193
+    second: _izard Jump_25
+  - first:
+      213: 8313453255267499031
+    second: _izard Jump_26
+  - first:
+      213: -4935502372558883870
+    second: _izard Jump_27
+  - first:
+      213: -9071141479286977868
+    second: _izard Jump_0
+  - first:
+      213: 3004454317874064115
+    second: _izard Jump_1
+  - first:
+      213: 2220995666267365501
+    second: _izard Jump_2
+  - first:
+      213: -5223824836988136979
+    second: _izard Jump_3
+  - first:
+      213: -3192429077434184374
+    second: _izard Jump_4
+  - first:
+      213: -3122007775113212018
+    second: _izard Jump_5
+  - first:
+      213: 3965971006308296518
+    second: _izard Jump_6
+  - first:
+      213: -5417270233197011597
+    second: _izard Jump_7
+  - first:
+      213: -126570101100539513
+    second: _izard Jump_8
+  - first:
+      213: -1977632135950313326
+    second: _izard Jump_9
+  - first:
+      213: 653326613603282356
+    second: _izard Jump_10
+  - first:
+      213: -8174653913439628000
+    second: _izard Jump_11
+  - first:
+      213: -8199313661474194389
+    second: _izard Jump_12
+  - first:
+      213: -5607292980980349213
+    second: _izard Jump_13
+  - first:
+      213: 5169570078308496833
+    second: _izard Jump_14
+  - first:
+      213: 1214385473300068148
+    second: _izard Jump_15
+  - first:
+      213: 4111029795594469613
+    second: _izard Jump_16
+  - first:
+      213: -6591899473729127392
+    second: _izard Jump_17
+  - first:
+      213: 1394097582467582119
+    second: _izard Jump_18
+  - first:
+      213: 5254477217605938644
+    second: _izard Jump_19
+  - first:
+      213: 5791910824461435590
+    second: _izard Jump_20
+  - first:
+      213: -6152130950153333181
+    second: _izard Jump_21
+  - first:
+      213: -8648010627954333398
+    second: _izard Jump_22
+  - first:
+      213: 378240188450846444
+    second: _izard Jump_23
+  - first:
+      213: 7243459581194666690
+    second: _izard Jump_24
+  - first:
+      213: -1979331282739736604
+    second: _izard Jump_25
+  - first:
+      213: -611093215687447808
+    second: _izard Jump_26
+  - first:
+      213: -6396748767698824653
+    second: _izard Jump_27
+  - first:
+      213: -5420874445947828819
+    second: _izard Jump_28
+  - first:
+      213: -8462449589014387255
+    second: _izard Jump_29
+  - first:
+      213: -7048481216315312623
+    second: _izard Jump_30
+  - first:
+      213: 5974949564479833709
+    second: _izard Jump_31
+  - first:
+      213: -9084125611647420743
+    second: _izard Jump_32
+  - first:
+      213: -1126212296694996008
+    second: _izard Jump_33
+  - first:
+      213: -8096494672330849164
+    second: _izard Jump_34
+  - first:
+      213: -7062035568396895071
+    second: _izard Jump_35
+  - first:
+      213: -1332318130324280386
+    second: _izard Jump_36
+  - first:
+      213: 3862319442241699563
+    second: _izard Jump_37
+  - first:
+      213: -5568686837408733393
+    second: _izard Jump_38
+  - first:
+      213: -5265812287918285776
+    second: _izard Jump_39
+  - first:
+      213: 7153369523542146585
+    second: _izard Jump_40
+  - first:
+      213: -6242658711031862402
+    second: _izard Jump_41
+  - first:
+      213: -7392626713546998441
+    second: _izard Jump_42
+  - first:
+      213: -8032378004420630121
+    second: _izard Jump_43
+  - first:
+      213: 5656633967610823270
+    second: _izard Jump_44
+  - first:
+      213: 1803115305157632385
+    second: _izard Jump_45
+  - first:
+      213: -5777393036686949641
+    second: _izard Jump_46
+  - first:
+      213: 3249247921626496458
+    second: _izard Jump_47
+  - first:
+      213: 2944320953329998073
+    second: _izard Jump_48
+  - first:
+      213: -3315571416394382185
+    second: _izard Jump_49
+  - first:
+      213: 2345016628274390371
+    second: _izard Jump_50
+  - first:
+      213: -4494928265396098151
+    second: _izard Jump_51
+  - first:
+      213: 3821824567806400193
+    second: _izard Jump_52
+  - first:
+      213: -2408166573479979332
+    second: _izard Jump_53
+  - first:
+      213: -8056598122856127445
+    second: _izard Jump_54
+  - first:
+      213: 774792786739382301
+    second: _izard Jump_55
+  - first:
+      213: 6316990319240053125
+    second: _izard Jump_56
+  - first:
+      213: 3985915158541482781
+    second: _izard Jump_57
+  - first:
+      213: -6463301580730264822
+    second: _izard Jump_58
+  - first:
+      213: -8510422661644433411
+    second: _izard Jump_59
+  - first:
+      213: 7815867187596583433
+    second: _izard Jump_60
+  - first:
+      213: 6792341321314781912
+    second: _izard Jump_61
+  - first:
+      213: 2460930058811122715
+    second: _izard Jump_62
+  - first:
+      213: 6658544113550408834
+    second: _izard Jump_63
+  - first:
+      213: -2122712043094478678
+    second: _izard Jump_64
+  - first:
+      213: -8030616581607713220
+    second: _izard Jump_65
+  - first:
+      213: 6280364774128266651
+    second: _izard Jump_66
+  - first:
+      213: -3349710493598871555
+    second: _izard Jump_67
+  - first:
+      213: -2068651414608175239
+    second: _izard Jump_68
+  - first:
+      213: 65772727875124250
+    second: _izard Jump_69
+  - first:
+      213: 986456428236788512
+    second: _izard Jump_70
+  - first:
+      213: -4720692845489490678
+    second: _izard Jump_71
+  - first:
+      213: -8781723538827191581
+    second: _izard Jump_72
+  - first:
+      213: 5103822179224349633
+    second: _izard Jump_73
+  - first:
+      213: 8350934811247144571
+    second: _izard Jump_74
+  - first:
+      213: -6058044343065310484
+    second: _izard Jump_75
+  - first:
+      213: 2398366068182993086
+    second: _izard Jump_76
+  - first:
+      213: 1825482874777634221
+    second: _izard Jump_77
+  - first:
+      213: -5466795129139838286
+    second: _izard Jump_78
+  - first:
+      213: 1676752579498212917
+    second: _izard Jump_79
+  - first:
+      213: 183190710153186232
+    second: _izard Jump_80
+  - first:
+      213: -5056094154266122490
+    second: _izard Jump_81
+  - first:
+      213: 6246399503729442171
+    second: _izard Jump_82
+  - first:
+      213: 2051186380531921699
+    second: _izard Jump_83
+  - first:
+      213: 5678108835964470388
+    second: _izard Jump_84
+  - first:
+      213: 4819057050182453268
+    second: _izard Jump_85
+  - first:
+      213: -3627253195987186289
+    second: _izard Jump_86
+  - first:
+      213: 5249689970132445483
+    second: _izard Jump_87
+  - first:
+      213: 7378306967057392222
+    second: _izard Jump_88
+  - first:
+      213: 8346569609341552480
+    second: _izard Jump_89
+  - first:
+      213: -9128093630859226538
+    second: _izard Jump_90
+  - first:
+      213: 6773422067845200104
+    second: _izard Jump_91
+  - first:
+      213: 8145945545317987766
+    second: _izard Jump_92
+  - first:
+      213: -6224594319647492211
+    second: _izard Jump_93
+  - first:
+      213: -6398090681707407707
+    second: _izard Jump_94
+  - first:
+      213: -6577804109709901219
+    second: _izard Jump_95
+  - first:
+      213: -7858184828993337049
+    second: _izard Jump_96
+  - first:
+      213: 6177410859423825042
+    second: _izard Jump_97
+  - first:
+      213: -5124445855524511323
+    second: _izard Jump_98
+  - first:
+      213: 5833075255628980438
+    second: _izard Jump_99
+  - first:
+      213: 6739025011201575156
+    second: _izard Jump_100
+  - first:
+      213: 3128211627188293735
+    second: _izard Jump_101
+  - first:
+      213: -808064579448470943
+    second: _izard Jump_102
+  - first:
+      213: 4533414555938341443
+    second: _izard Jump_103
+  - first:
+      213: -7929135331590403190
+    second: _izard Jump_104
+  - first:
+      213: 2337503996157297852
+    second: _izard Jump_105
+  - first:
+      213: -197809933334358766
+    second: _izard Jump_106
+  - first:
+      213: -2453531970477786339
+    second: _izard Jump_107
+  - first:
+      213: -4032692298981476216
+    second: _izard Jump_108
+  - first:
+      213: 4344618772622682840
+    second: _izard Jump_109
+  - first:
+      213: 8958695275246616726
+    second: _izard Jump_110
+  - first:
+      213: 15951247284942146
+    second: _izard Jump_111
+  - first:
+      213: 1413892378956612073
+    second: _izard Jump_112
+  - first:
+      213: 2146978921493631177
+    second: _izard Jump_113
+  - first:
+      213: 6313268406691364628
+    second: _izard Jump_114
+  - first:
+      213: -8748437379032156769
+    second: _izard Jump_115
+  - first:
+      213: -5137221043364987178
+    second: _izard Jump_116
+  - first:
+      213: -6987099598059046256
+    second: _izard Jump_117
+  - first:
+      213: -668886297095334445
+    second: _izard Jump_118
+  - first:
+      213: -2828926051199439103
+    second: _izard Jump_119
+  - first:
+      213: 5197979538555279133
+    second: _izard Jump_120
+  - first:
+      213: -2282052776512996394
+    second: _izard Jump_121
+  - first:
+      213: -230630457742203610
+    second: _izard Jump_122
+  - first:
+      213: -4474363108628917761
+    second: _izard Jump_123
+  - first:
+      213: 3630111103041665333
+    second: _izard Jump_124
+  - first:
+      213: 4289267535690824309
+    second: _izard Jump_125
+  - first:
+      213: 1285305829913995100
+    second: _izard Jump_126
+  - first:
+      213: -8747741295801099485
+    second: _izard Jump_127
+  - first:
+      213: -7149782013800665477
+    second: _izard Jump_128
+  - first:
+      213: -703589998612835067
+    second: _izard Jump_129
+  - first:
+      213: 5067227308034491909
+    second: _izard Jump_130
+  - first:
+      213: -6778932266082945458
+    second: _izard Jump_131
+  - first:
+      213: -1087658234180071340
+    second: _izard Jump_132
+  - first:
+      213: -4525919472907956740
+    second: _izard Jump_133
+  - first:
+      213: 3669489327496201648
+    second: _izard Jump_134
+  - first:
+      213: 6003730338170041141
+    second: _izard Jump_135
+  - first:
+      213: -4823583671235979509
+    second: _izard Jump_136
+  - first:
+      213: 6803942600333445681
+    second: _izard Jump_137
+  - first:
+      213: -991954265083838227
+    second: _izard Jump_138
+  - first:
+      213: -2715968334929677102
+    second: _izard Jump_139
+  - first:
+      213: -6041236069486263867
+    second: _izard Jump_140
+  - first:
+      213: 2367531773484620355
+    second: _izard Jump_141
+  - first:
+      213: 3644135706060317871
+    second: _izard Jump_142
+  - first:
+      213: 5147227685198966406
+    second: _izard Jump_143
+  - first:
+      213: -8983429918861720022
+    second: _izard Jump_144
+  - first:
+      213: 6247136383597395912
+    second: _izard Jump_145
+  - first:
+      213: -4700820304665862374
+    second: _izard Jump_146
+  - first:
+      213: -4600597367736644442
+    second: _izard Jump_147
+  - first:
+      213: 6236998623979639430
+    second: _izard Jump_148
+  - first:
+      213: 6764660529974077119
+    second: _izard Jump_149
+  - first:
+      213: 5835784474838160192
+    second: _izard Jump_150
+  - first:
+      213: -4813766003238739083
+    second: _izard Jump_151
+  - first:
+      213: 8076738468415674613
+    second: _izard Jump_152
+  - first:
+      213: 5419546572016686057
+    second: _izard Jump_153
+  - first:
+      213: 3127803127173878875
+    second: _izard Jump_154
+  - first:
+      213: 5374699801721106543
+    second: _izard Jump_155
+  - first:
+      213: 4363308294565575061
+    second: _izard Jump_156
+  - first:
+      213: 2084447856718206971
+    second: _izard Jump_157
+  - first:
+      213: -7291083077396252933
+    second: _izard Jump_158
+  - first:
+      213: 4627748792798368445
+    second: _izard Jump_159
+  - first:
+      213: -4927678915765082486
+    second: _izard Jump_160
+  - first:
+      213: 1291465953951189375
+    second: _izard Jump_161
+  - first:
+      213: -1479557383884289406
+    second: _izard Jump_162
+  - first:
+      213: -4538842162580866673
+    second: _izard Jump_163
+  - first:
+      213: 8605538069860007774
+    second: _izard Jump_164
+  - first:
+      213: 7383686788312671594
+    second: _izard Jump_165
+  - first:
+      213: -3405530493124638580
+    second: _izard Jump_166
+  - first:
+      213: -9146655058488651895
+    second: _izard Jump_167
+  - first:
+      213: -807494490624241786
+    second: _izard Jump_168
+  - first:
+      213: 6187083736105408230
+    second: _izard Jump_169
+  - first:
+      213: -8498548194998682224
+    second: _izard Jump_170
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: _izard Jump_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1488
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bac9c3b2e4dc1280800000000000000
+      internalID: -9071141479286977868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _izard Jump_1
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1488
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3faa5c8a847f1b920800000000000000
+      internalID: 3004454317874064115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _izard Jump_2
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1488
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d706c878acf82de10800000000000000
+      internalID: 2220995666267365501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _izard Jump_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1302
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1957edcfe3187b0800000000000000
+      internalID: -5223824836988136979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _izard Jump_4
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1302
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d48e41ba632b3d0800000000000000
+      internalID: -3192429077434184374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _izard Jump_5
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1302
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f8e5a38766ca4d0800000000000000
+      internalID: -3122007775113212018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _izard Jump_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1116
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647218c1e95f90730800000000000000
+      internalID: 3965971006308296518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _izard Jump_7
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1116
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d9ef1cc6df1d4b0800000000000000
+      internalID: -5417270233197011597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _izard Jump_8
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1116
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78197b4e9255e3ef0800000000000000
+      internalID: -126570101100539513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _izard Jump_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298d840ec0a0e84e0800000000000000
+      internalID: -1977632135950313326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _izard Jump_10
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bde126f715111900800000000000000
+      internalID: 653326613603282356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _izard Jump_11
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0259cafa39bcd8e80800000000000000
+      internalID: -8174653913439628000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _izard Jump_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2cb2ddaaaf263e80800000000000000
+      internalID: -8199313661474194389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _izard Jump_13
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e600251eb4ee22b0800000000000000
+      internalID: -5607292980980349213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _izard Jump_14
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5f01fb8900eb740800000000000000
+      internalID: 5169570078308496833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _izard Jump_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437f174672d5ad010800000000000000
+      internalID: 1214385473300068148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _izard Jump_16
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0847361df4d0930800000000000000
+      internalID: 4111029795594469613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _izard Jump_17
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c7a41aa5ed484a0800000000000000
+      internalID: -6591899473729127392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _izard Jump_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a806317d54d85310800000000000000
+      internalID: 1394097582467582119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _izard Jump_19
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dde8c3a037abe840800000000000000
+      internalID: 5254477217605938644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _izard Jump_20
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c283ce3530016050800000000000000
+      internalID: 5791910824461435590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _izard Jump_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3469c680f7d3f9aa0800000000000000
+      internalID: -6152130950153333181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _izard Jump_22
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29aafa27281cf780800000000000000
+      internalID: -8648010627954333398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _izard Jump_23
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6b3688277cf3500800000000000000
+      internalID: 378240188450846444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _izard Jump_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c202029c10f58460800000000000000
+      internalID: 7243459581194666690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
